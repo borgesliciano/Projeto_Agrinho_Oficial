@@ -1,0 +1,77 @@
+body {
+    background-color: #F1EFE3;
+    color: #2E2E2E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.cabecalho {
+    background-color: #5A7D5A;
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom: 5px solid #A3C957;
+}
+
+.navbar {
+    background-color: #5A7D5A !important;
+}
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link.active {
+    text-decoration: underline;
+}
+
+.img-agro, .img-card, .img-slide {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card {
+    background-color: #F1EFE3;
+    border: 1px solid #C7A17A;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.card-title {
+    color: #5A7D5A;
+}
+
+.btn-primary {
+    background-color: #A3C957;
+    border-color: #A3C957;
+    color: #2E2E2E;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #8FB843;
+    border-color: #8FB843;
+}
+
+.footer {
+    background-color: #5A7D5A;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+h1, h2, h3, h5 {
+    color: #5A7D5A;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+}

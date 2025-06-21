@@ -1,0 +1,70 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFF8E1; /* amarelo claro */
+    color: #B28704; /* amarelo escuro/dourado */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho {
+    width: 100%;
+    background-color: #F9A825; /* amarelo dourado */
+    color: #000;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.cabecalho h1 {
+    margin-bottom: 5px;
+}
+
+.cabecalho h3 {
+    color: #6F4C01; /* marrom escuro */
+}
+
+nav.navbar {
+    background-color: #F57F17 !important; /* amarelo escuro */
+    padding: 10px 0;
+}
+
+.container {
+    flex: 1 0 auto;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 15px;
+}
+
+h2, h3 {
+    color: #F57F17;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #6F4C01;
+}
+
+.img-agro {
+    max-width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(249, 168, 37, 0.3);
+}
+
+.footer {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 15px 20px;
+    font-size: 0.9rem;
+    flex-shrink: 0;
+    width: 100%;
+}
