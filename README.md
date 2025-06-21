@@ -17,7 +17,7 @@ Arquivos:
 
 ### Descrição das Seções:
 Cabeçalho (Header):
-* Título da página com o nome "Agricultura de Precisão".
+* Título da página com o nome "Agricultura de Alta Precisão".
 * Parágrafo explicativo.
 * Navegação com links internos para as seções e páginas secundárias.
 
