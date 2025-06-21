@@ -2,17 +2,18 @@
 Este projeto é uma página web informativa sobre as tecnologias de alta precisão mais atuais no meio da agricultura. Através de uma abordagem visual e clara, o conteúdo é dividido em seções sobre cada uma das tecnologias, meios de funcionamento e aplicabilidade. 
 
 ### Estrutura do Projeto
-Tecnologias Utilizadas:
-HTML: Estrutura principal da página.
-CSS: Estilização visual da página.
-Fontes: Fontes personalizadas para melhorar a legibilidade e o design.
-Arquivos:
-index.html: Arquivo principal com a estrutura da página.
-style.css: Arquivo de estilos para formatação da página.
-assets/image: Imagens.
-gps: Estrutura da página secundária.
-sensores: Estrutura da página secundária.
-sig: Estrutura da página secundária.
+* Tecnologias Utilizadas:
+- HTML: Estrutura principal da página.
+- CSS: Estilização visual da página.
+- Fontes: Fontes personalizadas para melhorar a legibilidade e o design.
+
+* Arquivos:
+- index.html: Arquivo principal com a estrutura da página.
+- style.css: Arquivo de estilos para formatação da página.
+- assets/image: Imagens.
+- gps: Estrutura da página secundária.
+- sensores: Estrutura da página secundária.
+- sig: Estrutura da página secundária.
 
 ### Descrição das Seções:
 Cabeçalho (Header):
